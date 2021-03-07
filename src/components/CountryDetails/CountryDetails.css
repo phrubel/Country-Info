@@ -1,0 +1,16 @@
+.country-details{
+    background-color: lightgray;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px yellowgreen;
+    width: 50%;
+    height: 1065px;
+    margin-left: 250px;
+    text-align: center;
+}
+.country-details img{
+border-radius: 10px;
+width: 627px;
+height: 419px;
+/* width: 100%; */
+margin-top: -10px;
+}

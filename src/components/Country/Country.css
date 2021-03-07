@@ -1,0 +1,32 @@
+.country-body{
+    border: 1px solid red;
+    background-color: lightgrey;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px black;
+    height: 250px;
+    width: 170px;
+    margin: 10px;
+    text-align: center;
+    float: left;
+    margin-left: 50px;
+}
+/* .country-body{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 1rem;
+} */
+.country-body img{
+    margin-top: 5px;
+    width: 100%;
+    border-radius: 50%;
+}
+.show-btn{
+background-color: crimson;
+color: white;
+margin-bottom: 15px;
+font-weight: 600;
+cursor: pointer;
+}
