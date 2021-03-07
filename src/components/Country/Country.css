@@ -21,7 +21,7 @@
 .country-body img{
     margin-top: 5px;
     width: 100%;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 }
 .show-btn{
 background-color: crimson;
